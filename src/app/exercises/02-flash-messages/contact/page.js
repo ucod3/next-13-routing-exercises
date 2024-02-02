@@ -1,7 +1,6 @@
 'use client';
 import React from 'react';
 import { useRouter } from 'next/navigation';
-import Toast from '../../../../components/Toast/';
 import { ToastContext } from '../../../../components/ToastProvider';
 
 function ContactPage() {
